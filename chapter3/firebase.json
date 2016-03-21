@@ -1,6 +1,6 @@
 {
-  "firebase": "basedemo",
-  "public": "deploy",
+  "firebase": "socialapp-angularfire",
+  "public": "build",
   "ignore": [
     "firebase.json",
     "**/.*",
